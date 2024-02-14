@@ -17,6 +17,9 @@ p{
     font-family: cursive;
     color: #2C2C2D;
 }
+.header a{
+    color: #7F727F;
+}
 a:link{
     text-decoration: none;
 }
