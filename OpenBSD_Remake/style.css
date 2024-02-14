@@ -17,9 +17,6 @@ p{
     font-family: cursive;
     color: #2C2C2D;
 }
-.header a{
-    color: #7F727F;
-}
 a:link{
     text-decoration: none;
 }
@@ -43,6 +40,7 @@ body{
     text-align: center;
 }
 .header{
+    display: flex;
     background-color: #5A5E51;
     border-radius: 10px;
     box-shadow: 3px 3px 0px #000000;
@@ -52,6 +50,11 @@ body{
     border-bottom: 10px #5A5E51 solid;
     text-shadow: 1.5px 1.5px 0px #000000;
 }
+.header a{
+    padding: 20px;
+    margin-right: 10px;
+    color: #7F727F;
+}
 .text{
     font-size: 15px;
     text-shadow: 0.5px 0.5px 0px #000000;
@@ -59,6 +62,10 @@ body{
 footer{
     border-top: 3px #5A5E51 solid;
     text-align: bottom-center;
+}
+footer a{
+    margin-right: 7px;
+    color: #7F727F;
 }
 .first-line{
     border-top: 3px #5A5E51 solid;
@@ -83,4 +90,8 @@ footer{
     border-right: 15px #5A5E51 solid;
     border-bottom: 10px #5A5E51 solid;
     text-shadow: 1.5px 1.5px 0px #000000;
+}
+.menu a{
+    margin-right: 10px;
+    color: #7F727F;
 }

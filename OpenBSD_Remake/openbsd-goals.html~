@@ -39,7 +39,7 @@
       <p>This map approximates where our developers live. We will attempt to update it occasionally, but please don't count on that.</p>
       <img src="map.jpg" alt="Map">
       <footer>
-      <p>Associated projects: <a href="https://openssh.com">OpenSSH</a> <a href="https://openbgpd.org">OpenBGPD</a> <a href="https://rpki-client.org">rpki-client</a> <a href="https://openntpd.org">OpenNTPD<a/> <a href="https://opensmtpd.org">OpenSMTPD</a> <a href="https://openiked.org">OpenIKED</a> <a href="https://mandoc.bsd.lv">mandoc</a> <a href="https://libressl.org">LibreSSL</a></p>
+      <p>Associated projects: <a href="https://openssh.com">OpenSSH</a>, <a href="https://openbgpd.org">OpenBGPD</a>, <a href="https://rpki-client.org">rpki-client</a>, <a href="https://openntpd.org">OpenNTPD<a/>, <a href="https://opensmtpd.org">OpenSMTPD</a>, <a href="https://openiked.org">OpenIKED</a>, <a href="https://mandoc.bsd.lv">mandoc</a>, <a href="https://libressl.org">LibreSSL</a></p>
 	</footer>
       </span>
   </body>

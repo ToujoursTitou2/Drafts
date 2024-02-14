@@ -9,12 +9,14 @@
   <body>
     <p>
       <span class="header">
-	<a href="about-openbsd-index.html">About OpenBSD</a>
-	<a href="getting-openbsd-index.html">Getting OpenBSD</a>
-	<a href="getting-sources-index.html">Getting Source</a>
-	<a href="openbsd-resources-index.html">OpenBSD Resources</a>
-	<a href="supporting-openbsd-index.html">Supporting OpenBSD</a>
-	<a href="openbsd-goals.html">Project Goals</a>
+	<span class="buttons">
+	  <a href="about-openbsd-index.html">About OpenBSD</a>
+	  <a href="getting-openbsd-index.html">Getting OpenBSD</a>
+	  <a href="getting-sources-index.html">Getting Source</a>
+	  <a href="openbsd-resources-index.html">OpenBSD Resources</a>
+	  <a href="supporting-openbsd-index.html">Supporting OpenBSD</a>
+	  <a href="openbsd-goals.html">Project Goals</a>
+        </span>
       </span>
     </p>
     <h1><a href="index.html"><span class="first">Open</span><span class="second">BSD</span></a></h1>
