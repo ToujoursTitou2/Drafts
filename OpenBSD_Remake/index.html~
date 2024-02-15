@@ -7,18 +7,18 @@
     <meta charset="utf-8">
   </head>
   <body>
-    <p>
-      <span class="header">
-	<span class="buttons">
+    <header>
+      <p>
+	<span class="nav">
 	  <a href="about-openbsd-index.html">About OpenBSD</a>
 	  <a href="getting-openbsd-index.html">Getting OpenBSD</a>
 	  <a href="getting-sources-index.html">Getting Source</a>
 	  <a href="openbsd-resources-index.html">OpenBSD Resources</a>
 	  <a href="supporting-openbsd-index.html">Supporting OpenBSD</a>
 	  <a href="openbsd-goals.html">Project Goals</a>
-        </span>
-      </span>
-    </p>
+	</span>
+      </p>
+    </header>
     <h1><a href="index.html"><span class="first">Open</span><span class="second">BSD</span></a></h1>
     <span class="text">
     <p>The OpenBSD project produces a <strong>FREE</strong>, multiplatform 4.4BSD-based UNIX-like operating system. Our efforts emphasize portability, standarization, correctness,<br> <a href="openbsd-security.html">proactive security</a> and <a href="openbsd-crypto.html">integrated cryptography</a>. As an example of the effect OpenBSD has, the popular <a href="https://openssh.com">OpenSSH</a> comes from OpenBSD.<br></p>

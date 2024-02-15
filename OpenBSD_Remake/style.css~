@@ -12,10 +12,10 @@ h3{
     font-family: cursive;
     color: #7F727F;
 }
-p{
+header, body, footer{
     text-align: center;
     font-family: cursive;
-    color: #2C2C2D;
+    color :#2C2C2D;
 }
 a:link{
     text-decoration: none;
@@ -39,20 +39,22 @@ body{
     background-color: #FFFFFF;
     text-align: center;
 }
-.header{
-    background-color: #5A5E51;
-    border-radius: 10px;
-    box-shadow: 3px 3px 0px #000000;
-    border-left: 15px #5A5E51 solid;
-    border-top: 100px #5A5E51 solid;
-    border-right: 15px #5A5E51 solid;
-    border-bottom: 10px #5A5E51 solid;
-    text-shadow: 1.5px 1.5px 0px #000000;
+header{
+background-color: #5A5E51;
+display: flex;
+height: 120px ;
+justify-content: space-between;
+font-family: freemono;
+font-size: 16px;
+text-shadow: 3px 3px 5px black;
+box-shadow: 3px 3px 5px black;
 }
-.header a{
-    padding: 20px;
-    margin-right: 10px;
-    color: #7F727F;
+.nav{
+    display: flex;
+    flex: 1;
+    align-items: center;
+    justify-content: space-around;
+    padding: 10px;
 }
 .text{
     font-size: 15px;
@@ -93,4 +95,8 @@ footer a{
 .menu a{
     margin-right: 10px;
     color: #7F727F;
+}
+
+@media screen and(max-width: 1000px){
+    
 }
